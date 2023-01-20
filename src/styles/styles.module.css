@@ -64,3 +64,9 @@
 nav{
     overflow-y: hidden;
 }
+
+.disabled{
+    border-color: grey !important;
+    border-left: 1px solid white !important;
+    color: grey !important;
+}
